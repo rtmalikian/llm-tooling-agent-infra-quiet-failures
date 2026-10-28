@@ -12,7 +12,7 @@ One click, no sign-up, no paywall.
 
 Raphael T. Malikian, MBBS BSc (Hons) — Independent Researcher, Palmdale, California, USA — ORCID 0009-0008-4326-4205
 
-Preprint and journal submission in progress (October 2026).
+Preprint: Zenodo, https://doi.org/10.5281/zenodo.23741622. Journal submission in progress (October 2026).
 
 ---
 
